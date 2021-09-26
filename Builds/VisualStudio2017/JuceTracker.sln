@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JuceTracker_App", "JuceTracker_App.vcxproj", "{8A852F40-0062-CAA7-A707-BBC6A9FD6759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+		Test|x64 = Test|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A852F40-0062-CAA7-A707-BBC6A9FD6759}.Debug|x64.ActiveCfg = Debug|x64
+		{8A852F40-0062-CAA7-A707-BBC6A9FD6759}.Debug|x64.Build.0 = Debug|x64
+		{8A852F40-0062-CAA7-A707-BBC6A9FD6759}.Release|x64.ActiveCfg = Release|x64
+		{8A852F40-0062-CAA7-A707-BBC6A9FD6759}.Release|x64.Build.0 = Release|x64
+		{8A852F40-0062-CAA7-A707-BBC6A9FD6759}.Test|x64.ActiveCfg = Test|x64
+		{8A852F40-0062-CAA7-A707-BBC6A9FD6759}.Test|x64.Build.0 = Test|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF5BA1B2-4D7C-4411-AC06-E40B06DD924B}
+	EndGlobalSection
+EndGlobal

@@ -1,2 +1,3 @@
-# juceTracker
-UWE Software Development for Audio 2021 - A music tracker built with JUCE
+# JuceTracker
+
+A sample sequencer with a tracker-style interface, implemented in JUCE.
